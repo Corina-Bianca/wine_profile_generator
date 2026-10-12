@@ -39,6 +39,19 @@ test-output.pdf
 page.json
 *.zip
 
+# Temporary scratchpad, working logs & ad-hoc test photos
+*.tmp
+*.log
+scratch/
+test-label.*
+
+# Ignore loose photos/scans taken during testing, but protect repository assets
+*.jpg
+*.jpeg
+*.png
+*.webp
+!assets/**
+
 # Playwright & browser execution artifacts
 .playwright/
 test-results/
