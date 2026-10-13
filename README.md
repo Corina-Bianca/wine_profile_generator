@@ -28,10 +28,3 @@ Python 3 with Pillow (bottle photo), OpenCV (reading QR codes) and Playwright wi
 ## Licence
 
 CC BY-NC 4.0 (see `LICENSE.txt`). The licence covers the instructions, scripts and page design. It does not cover the WineFluent name and logo, the third-party fonts, icons and aroma categories (see `NOTICE.txt`), or the wine facts and photographs a generated page draws from its sources.
-
-## Open points
-
-- Sparkling aroma wheel (InnoVinum): a few entries were read from a small image (see the notes at the end of the aroma table in `references/sparkling.md`).
-- WSET Level 3 wording (scales and readiness statements) is used as scale words only; the WSET document is copyright WSET and is not included. Check WSET's terms before wider distribution.
-- Overview and details differ only in depth (see `SKILL.md`); `lang` assumes the whole page is written in the chosen language.
-- Producer pages with a vintage selector: the skill looks for the matching entry, but this has not been tested on live pages.
