@@ -1,0 +1,102 @@
+{
+ "wine_type": "still",
+ "lang": "en",
+ "date": "",
+ "mode": "overview",
+ "back_label": false,
+ "title": "",
+ "h1": "",
+ "h1_url": "",
+ "subtitle": "",
+ "photo": null,
+ "panel": [
+  { "label": "Producer", "value": "" },
+  { "label": "Wine", "value": "" },
+  { "label": "Vintage", "value": "" },
+  { "label": "Colour", "value": "" },
+  { "label": "Origin", "value": "" },
+  { "label": "Style", "value": "" },
+  { "label": "Alcohol", "value": "" },
+  { "label": "Bottle size", "value": "" }
+ ],
+ "sections": {
+  "scores": {
+   "rows": [
+    { "label": "Scores", "value": "" },
+    { "label": "Awards", "value": "" }
+   ]
+  },
+  "glass": {
+   "rows": [
+    { "label": "Appearance", "value": "" },
+    {
+     "label": "Aroma",
+     "value": {
+      "clusters": []
+     }
+    },
+    {
+     "label": "Flavour",
+     "value": {
+      "clusters": []
+     }
+    },
+    { "label": "Mouthfeel", "value": "" },
+    { "label": "Finish", "value": "" },
+    { "label": "Aftertaste", "value": "" }
+   ]
+  },
+  "winemaking": {
+   "rows": [
+    { "label": "Grapes", "value": "" },
+    { "label": "Shares", "value": "" },
+    { "label": "Harvest", "value": "" },
+    { "label": "Fermentation", "value": "" },
+    { "label": "Maturation", "value": "", "limit": "" },
+    { "label": "Disgorgement", "value": "" },
+    { "label": "Barrel size", "value": "" },
+    { "label": "Alcohol", "value": "", "limit": "" },
+    { "label": "Residual sugar", "value": "", "limit": "" },
+    { "label": "Total acidity", "value": "", "limit": "" },
+    { "label": "Bottles", "value": "" }
+   ],
+   "note": ""
+  },
+  "serving": {
+   "rows": [
+    { "label": "Serving temperature", "value": "" },
+    { "label": "Glass", "value": "" },
+    { "label": "Decanting", "value": "" },
+    { "label": "Ageing potential", "value": "" },
+    { "label": "Storage", "value": "" },
+    { "label": "Pairing", "value": "", "pairing": true },
+    { "label": "Occasion", "value": "" }
+   ]
+  },
+  "producer": {
+   "html": ""
+  },
+  "geography": {
+   "rows": [
+    { "label": "Country", "value": "" },
+    { "label": "Region", "value": "" },
+    { "label": "Zone", "value": "" },
+    { "label": "Site", "value": "" },
+    { "label": "Climate", "value": "" }
+   ]
+  },
+  "designation": {
+   "intro": "",
+   "table": [
+    { "requirement": "", "meaning": "", "this_wine": "" }
+   ],
+   "seals": []
+  },
+  "sources": {
+   "legend": "Unattributed statements come from the producer or producer-submitted listings; reviews and press are named.",
+   "items": [
+    { "label": "Match", "html": "" }
+   ]
+  }
+ }
+}

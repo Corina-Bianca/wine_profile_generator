@@ -1,0 +1,332 @@
+{
+ "wine_type": "still",
+ "lang": "en",
+ "date": "11 October 2026",
+ "mode": "overview",
+ "back_label": false,
+ "title": "St. Andrea Nagy-Eged 2022",
+ "h1": "St. Andrea Nagy-Eged",
+ "h1_url": "https://standrea.com/en/shop/products/st-andrea-nagy-eged-dulo-egri-bikaver-grand-superior-2021",
+ "subtitle": "Egri Bikavér Grand Superior · 2022 · Eger, Hungary",
+ "notice": "Front-label photograph · External research",
+ "photo": null,
+ "panel": [
+  {
+   "label": "Producer",
+   "value": "St. Andrea"
+  },
+  {
+   "label": "Wine",
+   "value": "Nagy-Eged Egri Bikavér Grand Superior"
+  },
+  {
+   "label": "Vintage",
+   "value": "2022"
+  },
+  {
+   "label": "Colour",
+   "value": "Red"
+  },
+  {
+   "label": "Origin",
+   "value": "PDO Eger, Hungary"
+  },
+  {
+   "label": "Style",
+   "value": "Dry"
+  },
+  {
+   "label": "Alcohol",
+   "value": "14.5% vol"
+  },
+  {
+   "label": "Bottle size",
+   "value": "75 cl"
+  }
+ ],
+ "sections": {
+  "scores": {
+   "rows": [
+    {
+     "label": "Scores",
+     "value": "<a href=\"https://www.falstaff.com/en/wines/st-andrea-winery-2022-nagy-eged-egri-bikaver-grand-superior\">Falstaff</a> 94 points (2022 vintage)"
+    },
+    {
+     "label": "Awards",
+     "value": ""
+    }
+   ]
+  },
+  "glass": {
+   "rows": [
+    {
+     "label": "Appearance",
+     "value": "Dark ruby-garnet with violet highlights and a delicate lightening at the rim."
+    },
+    {
+     "label": "Aroma",
+     "value": {
+      "clusters": [
+       {
+        "heading": "Fruity · Berry",
+        "items": [
+         "ripe blueberries"
+        ]
+       },
+       {
+        "heading": "Fruity · Tree fruit",
+        "items": [
+         "black cherries"
+        ]
+       },
+       {
+        "heading": "Earthy",
+        "items": [
+         "earthy notes"
+        ]
+       },
+       {
+        "heading": "Other",
+        "items": [
+         "graphite"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "label": "Flavour",
+     "value": {
+      "clusters": [
+       {
+        "heading": "Fruity · Berry",
+        "items": [
+         "red wild berries"
+        ]
+       },
+       {
+        "heading": "Fruity · Tree fruit",
+        "items": [
+         "cherry"
+        ]
+       },
+       {
+        "heading": "Caramel",
+        "items": [
+         "a hint of chocolate"
+        ]
+       },
+       {
+        "heading": "Other",
+        "items": [
+         "mineral edge"
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "label": "Mouthfeel",
+     "value": "High acidity; high, finely polished tannins."
+    },
+    {
+     "label": "Finish",
+     "value": ""
+    },
+    {
+     "label": "Aftertaste",
+     "value": ""
+    }
+   ]
+  },
+  "winemaking": {
+   "rows": [
+    {
+     "label": "Grapes",
+     "value": "Kékfrankos, Merlot, Cabernet Franc, Syrah"
+    },
+    {
+     "label": "Shares",
+     "value": ""
+    },
+    {
+     "label": "Harvest",
+     "value": ""
+    },
+    {
+     "label": "Fermentation",
+     "value": ""
+    },
+    {
+     "label": "Maturation",
+     "value": "16 months in oak barrels",
+     "limit": "Grand Superior min. 12 months in wooden barrels"
+    },
+    {
+     "label": "Barrel size",
+     "value": "500 L"
+    },
+    {
+     "label": "Alcohol",
+     "value": "14.5% vol",
+     "limit": "Grand Superior min. 12.0% vol"
+    },
+    {
+     "label": "Residual sugar",
+     "value": "1.3 g/L",
+     "limit": "Grand Superior max. 5 g/L total sugar"
+    },
+    {
+     "label": "Total acidity",
+     "value": "6.4 g/L",
+     "limit": "Grand Superior 4.6–7.0 g/L"
+    },
+    {
+     "label": "Bottles",
+     "value": "8,700"
+    }
+   ],
+   "note": "<b>Egri Bikavér</b> (“Bull’s Blood of Eger”) is a red blend from the Eger area, based on Kékfrankos. <b>Grand Superior</b> is the highest of its three tiers."
+  },
+  "serving": {
+   "rows": [
+    {
+     "label": "Serving temperature",
+     "value": ""
+    },
+    {
+     "label": "Glass",
+     "value": ""
+    },
+    {
+     "label": "Decanting",
+     "value": ""
+    },
+    {
+     "label": "Ageing potential",
+     "value": "over 10 years: decades of ageing potential"
+    },
+    {
+     "label": "Storage",
+     "value": ""
+    },
+    {
+     "label": "Pairing",
+     "value": "",
+     "pairing": true
+    },
+    {
+     "label": "Occasion",
+     "value": ""
+    }
+   ]
+  },
+  "producer": {
+   "html": "<span class=\"pname\">St. Andrea</span> is a winery in Egerszalók, in the Eger wine district of Hungary’s Upper-Hungary wine region. It was founded in 2002 and has 50 hectares of vineyard, producing about 250,000 bottles a year."
+  },
+  "geography": {
+   "rows": [
+    {
+     "label": "Country",
+     "value": "Hungary"
+    },
+    {
+     "label": "Region",
+     "value": "Upper-Hungary wine region; Eger wine district"
+    },
+    {
+     "label": "Zone",
+     "value": "The Eger designation area, 19 municipalities among them Eger, Egerszalók and Noszvaj; Grand Superior grapes come from vineyards in soil-cadastre classes I and II/1"
+    },
+    {
+     "label": "Site",
+     "value": "Nagy-Eged, a named vineyard (<i>dűlő</i>) in Eger, 260–330 m above sea level, on marine limestone sediments and brown forest soil"
+    },
+    {
+     "label": "Climate",
+     "value": "Eger area, 47-year averages: 10.65 °C annual mean temperature, 592.6 mm annual precipitation, 1,964 hours of sunshine a year"
+    }
+   ]
+  },
+  "designation": {
+   "intro": "Egri Bikavér is a classification within the protected designation of origin Eger/Egri (<i>oltalom alatt álló eredetmegjelölés</i>). The table compares its product specification (<i>termékleírás</i>) with this wine.",
+   "table": [
+    {
+     "requirement": "Designation",
+     "meaning": "The grapes must come from the designation area, the vineyards of 19 municipalities around Eger.",
+     "this_wine": "Eger (Nagy-Eged)"
+    },
+    {
+     "requirement": "Tier",
+     "meaning": "Three tiers: Classicus, Superior and Grand Superior. Grand Superior has the lowest maximum yield (35 hl/ha, against 60 for Superior and 100 for Classicus) and is the only tier that may name a vineyard.",
+     "this_wine": "Grand Superior"
+    },
+    {
+     "requirement": "Blend",
+     "meaning": "At least 4 grape varieties, each above 5% of the wine. Kékfrankos must make up 30–65% and be the largest share.",
+     "this_wine": "Kékfrankos, Merlot, Cabernet Franc, Syrah"
+    },
+    {
+     "requirement": "Minimum actual alcohol content",
+     "meaning": "At least 12.0% vol actual alcohol content (<i>tényleges alkoholtartalom</i>). The total alcohol content (<i>összes alkoholtartalom</i>) must be at least 12.5% vol.",
+     "this_wine": "14.5% vol"
+    },
+    {
+     "requirement": "Maturation in wood",
+     "meaning": "At least 12 months in wooden barrels (<i>fahordó</i>) for Superior and Grand Superior Bikavér.",
+     "this_wine": "16 months in oak barrels"
+    },
+    {
+     "requirement": "Named vineyard (<i>dűlő</i>)",
+     "meaning": "Allowed only on Grand Superior. At least 95% of the grapes must come from the named vineyard.",
+     "this_wine": "Nagy-Eged, a listed vineyard in Eger"
+    },
+    {
+     "requirement": "Maximum sugar",
+     "meaning": "At most 5 g/L total sugar in Classicus, Superior and Grand Superior Bikavér.",
+     "this_wine": "1.3 g/L"
+    },
+    {
+     "requirement": "Total acidity",
+     "meaning": "Between 4.6 and 7.0 g/L for Bikavér.",
+     "this_wine": "6.4 g/L"
+    },
+    {
+     "requirement": "Vintage",
+     "meaning": "The vintage year must appear on the label.",
+     "this_wine": "2022"
+    }
+   ],
+   "seals": []
+  },
+  "sources": {
+   "legend": "Unattributed statements come from the producer or producer-submitted listings; reviews and press are named.",
+   "items": [
+    {
+     "label": "Match",
+     "html": "the wine was identified from the front label. The <a href=\"https://prowein.bor.hu/wines/st-andrea-nagy-eged-egri-bikaver-grand-superior-2022\">Wines of Hungary listing</a> for the 2022 vintage matches its name and vintage. It is producer-submitted and supplies the 2022 technical data, tasting description, ageing, bottle count and the winery details (<a href=\"https://prowein.bor.hu/wineries/st-andrea-vineyard\">winery listing</a>)."
+    },
+    {
+     "label": "Producer",
+     "html": "the <a href=\"https://standrea.com/en/shop/products/st-andrea-nagy-eged-dulo-egri-bikaver-grand-superior-2021\">product page</a> on the producer’s site shows the 2021 vintage and lists 2019; no 2022 entry was found there. It is used for the vineyard elevation and soil. Location: the <a href=\"https://standrea.com/en/st-andrea-winery\">winery page</a>."
+    },
+    {
+     "label": "Designation",
+     "html": "the Eger/Egri product specification in the original Hungarian, as published in the Földművelésügyi Értesítő, vol. 71, no. 5, of <a href=\"https://cdn.kormany.hu/uploads/document/a/a1/a11/a11c0c95e40ec12cb8759bc72acb4100b9ecd677.pdf\">8 June 2021</a>, together with amendment applications pending then. Later changes were not checked."
+    },
+    {
+     "label": "Reviews",
+     "html": "<a href=\"https://www.falstaff.com/en/wines/st-andrea-winery-2022-nagy-eged-egri-bikaver-grand-superior\">Falstaff</a>, tasted on 29 June 2026, for the 2022 vintage (appearance, flavour and barrel size)."
+    },
+    {
+     "label": "Terms explained",
+     "html": "<a href=\"https://winesofhungary.hu/grape-varieties/black-grape-varieties-red-wine-styles/egri-bikaver\">Wines of Hungary, Egri Bikavér</a>."
+    },
+    {
+     "label": "Not found",
+     "html": "a retailer listing or a bottle photograph for the 2022 vintage (so none is shown), the harvest and fermentation details, serving and pairing advice, a QR code or e-label page, and any organic or other certification."
+    }
+   ]
+  }
+ }
+}

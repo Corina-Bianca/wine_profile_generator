@@ -1,0 +1,38 @@
+Wine Label-to-Profile Skill (/wine-page)
+Copyright (c) 2026 Corina-Bianca Gonteanu, licensed CC BY-NC 4.0 (see LICENSE.txt).
+
+Third-party material included in this package, with its own licence:
+
+- Icons: Lucide (https://lucide.dev), ISC licence. Copyright (c) Lucide Icons and Contributors.
+  Files: assets/icons/*.svg. Licence text: licenses/Lucide-ISC.txt.
+- Fonts: Alata (SIL Open Font Licence 1.1, copyright The Alata Project Authors) and
+  Cormorant Infant (SIL Open Font Licence 1.1, copyright The Cormorant Project Authors),
+  as distributed by Fontsource. Files: assets/fonts/*.woff2.
+  Licence texts: licenses/OFL-Alata.txt, licenses/OFL-Cormorant-Infant.txt.
+  The fonts are embedded in generated pages; they are not sold on their own.
+- Aroma and flavour categories: based on the Wine Aroma Wheel by Ann C. Noble
+  (copyright A.C. Noble 1990, www.winearomawheel.com; current edition published by
+  InnoVinum Academy), adapted (herbs and vegetables are separate families). Only category names
+  and independent taxonomic mappings are included; the wheel's artwork, graphic layout, 
+  and design are not reproduced.
+- Fortified-wine mapping uses terms from the Port and Sherry aroma wheels published by Vinerra
+  and the Madeira aroma wheel published by Blandy's, as examples only. Their structure and artwork
+  are not reproduced.
+- Sparkling-wine categories: based on the InnoVinum sparkling-wine aroma taxonomy. Category 
+  names only; the wheel's artwork and graphic design are not reproduced.
+- Sensory scale terminology: descriptive scale words (acidity, tannin, body, mousse, finish, 
+  sweetness, readiness statements) reference standard wine education scales (including the WSET 
+  Level 3 Systematic Approach to Tasting Wine, Issue 2, 2022) for nominative descriptive purposes only. 
+  No proprietary WSET materials, guides, or tasting grids are included in this package.
+
+Not covered by the licence:
+
+- The WineFluent name and logo (assets/logo.svg and the footer of generated pages). They are the
+  author's brand and trademark. Do not reuse them outside generated pages of this skill without permission.
+- Third-party trademarks: "WSET", "Wine & Spirit Education Trust", "Wine Aroma Wheel", and respective
+  producer or institutional names are trademarks of their respective holders. Their reference here 
+  does not imply affiliation, sponsorship, or endorsement.
+- The wine facts, product photographs, specifications, and external content that a generated profile
+  draws from its sources. These remain the property of their respective owners. End users are solely 
+  responsible for compliance with applicable terms of service and copyright in connection with 
+  external data retrieval and image reproduction.

@@ -1,0 +1,48 @@
+Wine Label-to-Profile Skill
+Copyright (c) 2026 Corina-Bianca Gonteanu
+https://about.me/corinagonteanu
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License (CC BY-NC 4.0).
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+The full legal code is available at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+In short, you are free to:
+  - Share: copy and redistribute the material in any medium or format.
+  - Adapt: remix, transform, and build upon the material.
+
+Under the following terms:
+  - Attribution: you must give appropriate credit to Corina-Bianca
+    Gonteanu, provide a link to the license, and indicate if changes were
+    made. You may do so in any reasonable manner, but not in any way that
+    suggests the licensor endorses you or your use.
+  - NonCommercial: you may not use the material for commercial purposes
+    without separate permission from the licensor.
+  - No additional restrictions: you may not apply legal terms or
+    technological measures that legally restrict others from doing anything
+    the license permits.
+
+Suggested attribution:
+  "Wine Label-to-Profile Skill" by Corina-Bianca Gonteanu
+  (https://about.me/corinagonteanu), licensed under CC BY-NC 4.0.
+  Source: [repository address to be added once published]
+
+Scope:
+This license covers the skill's instructions (SKILL.md), reference guides,
+data schemas (page-template.json), execution scripts (render_page.py, check_page.py),
+and HTML/CSS layout templates.
+
+It does not cover:
+  - The WineFluent name and brand logo (assets/logo.svg and footer marks).
+  - Third-party web fonts, icons, or sensory models (which remain under their
+    respective open or proprietary licenses; see NOTICE.txt).
+  - Factual wine data, bottle photographs, and third-party winery content
+    retrieved from external sources during execution. Those remain the property
+    of their respective owners.
+
+This summary is not a substitute for the license. The license text at the
+link above governs.

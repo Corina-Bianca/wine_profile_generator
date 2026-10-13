@@ -1,0 +1,22 @@
+{
+  "notice": "Front-label photograph · External research",
+  "notice_no_back": "Front-label photograph · External research · Add the back label for more detail",
+  "toc_label": "On this page",
+  "sections": {
+    "scores": {"title": "Scores and awards", "nav": "Awards"},
+    "glass": {"title": "What’s in the glass", "nav": "Glass"},
+    "winemaking": {"title": "Grapes and winemaking", "nav": "Winemaking"},
+    "serving": {"title": "Serving, storage and pairing", "nav": "Serving"},
+    "producer": {"title": "Producer", "nav": "Producer"},
+    "geography": {"title": "Geography", "nav": "Geography"},
+    "designation": {"title": "Designation and certifications", "nav": "Designation"},
+    "sources": {"title": "Sources and limitations", "nav": "Sources"}
+  },
+  "table_head": ["Requirement", "What it means", "This wine"],
+  "cmp_labels": ["Requirement", "What it means", "This wine"],
+  "pairing_label": "Pairing",
+  "footer_made": "Made with the Wine Label-to-Profile Skill (/wine-page) by",
+  "footer_follow": "Follow me on Substack for more wine content",
+  "footer_generated": "Generated {date}.",
+  "footer_logo_note": "The WineFluent name and logo are not covered by the licence."
+}
